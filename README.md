@@ -1,1 +1,1 @@
-# Streamz-Frontend
+# StreamZ-Frontend
